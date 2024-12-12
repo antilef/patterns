@@ -1,6 +1,6 @@
 package cl.artemis;
 
-import cl.artemis.patterns.Logger;
+import cl.artemis.patterns.singleton.Logger;
 
 public class Main {
     public static void main(String[] args) {

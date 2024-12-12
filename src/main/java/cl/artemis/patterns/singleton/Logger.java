@@ -1,4 +1,4 @@
-package cl.artemis.patterns;
+package cl.artemis.patterns.singleton;
 
 import java.util.ArrayList;
 import java.util.List;

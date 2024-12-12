@@ -1,4 +1,4 @@
-package cl.artemis.patterns;
+package cl.artemis.patterns.singleton;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
